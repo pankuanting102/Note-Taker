@@ -9,5 +9,5 @@ A web application that allows to take, delete and retreive notes, which is using
 <br>To be deployed
 <br>
 <br><div style="width: 90vw; margin: auto; border: 1px black solid">
-<img src="/Assets/Oct-22-2020 00-59-01.gif">
+<img src="https://github.com/pankuanting102/Note-Taker/blob/main/Asset/Oct-22-2020%2000-59-01.gif?raw=true">
 </div>
