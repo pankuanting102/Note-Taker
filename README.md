@@ -6,7 +6,7 @@ A web application that allows to take, delete and retreive notes, which is using
 <br>https://github.com/pankuanting102/Note-Taker
 <br>
 <br><b>Heroku Deployed Application</b>
-<br>To be deployed
+<br>https://note-taker-kt102.herokuapp.com/
 <br>
 <br><div style="width: 90vw; margin: auto; border: 1px black solid">
 <img src="https://github.com/pankuanting102/Note-Taker/blob/main/Asset/Oct-22-2020%2000-59-01.gif?raw=true">
